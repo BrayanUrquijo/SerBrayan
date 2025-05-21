@@ -131,3 +131,19 @@
 [19:43:48] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] BrayanJudo27 has disconnected from the Java server because of Bedrock client disconnected
 [19:43:49] [Server thread/INFO]: .BrayanJudo27 lost connection: Disconnected
 [19:43:49] [Server thread/INFO]: .BrayanJudo27 left the game
+[19:44:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:45:55] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username BrayanJudo27
+[19:45:55] [localSession-7-2/INFO]: [Geyser-Spigot] BrayanJudo27 (logged in as: BrayanJudo27) has connected to the Java server
+[19:45:56] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BrayanJudo27 joined (UUID: 00000000-0000-0000-0009-01f7d00eb760)
+[19:45:56] [Server thread/INFO]: .BrayanJudo27 (formerly known as BrayanJudo27) joined the game
+[19:45:56] [Server thread/INFO]: .BrayanJudo27[/127.0.0.1:0] logged in with entity id 984 at ([world]-2024.699999988079, 37.0, -281.9923420465953)
+[19:47:07] [Server thread/INFO]: Made .BrayanJudo27 a server operator
+[19:49:23] [Server thread/INFO]: .BrayanJudo27 has made the advancement [Monster Hunter]
+[19:49:34] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[19:49:55] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[19:50:26] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[19:50:39] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[19:50:53] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[19:51:06] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[19:51:18] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[19:51:56] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
