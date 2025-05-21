@@ -147,3 +147,8 @@
 [19:51:06] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
 [19:51:18] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
 [19:51:56] [Server thread/INFO]: .BrayanJudo27 was shot by Skeleton
+[20:12:56] [Server thread/INFO]: .BrayanJudo27 has made the advancement [Sweet Dreams]
+[20:14:00] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .BrayanJudo27 disconnected
+[20:14:00] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] BrayanJudo27 has disconnected from the Java server because of Bedrock client disconnected
+[20:14:00] [Server thread/INFO]: .BrayanJudo27 lost connection: Disconnected
+[20:14:00] [Server thread/INFO]: .BrayanJudo27 left the game
