@@ -103,3 +103,4 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [02:41:19] [User Authenticator #0/INFO]: UUID of player BrayanJudo27 is 478daf50-924c-3da3-b1c0-9bff293a15c0
 [02:41:23] [Server thread/INFO]: BrayanJudo27 joined the game
 [02:41:23] [Server thread/INFO]: BrayanJudo27[/127.222.189.152:59499] logged in with entity id 77 at ([world]-2024.699999988079, 37.0, -281.9923420465953)
+[02:49:43] [Server thread/INFO]: BrayanJudo27 has made the advancement [Take Aim]
