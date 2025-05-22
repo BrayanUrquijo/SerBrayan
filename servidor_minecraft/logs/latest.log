@@ -125,3 +125,8 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [01:32:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BrayanJudo27 joined (UUID: 00000000-0000-0000-0009-01f7d00eb760)
 [01:32:57] [Server thread/INFO]: .BrayanJudo27 joined the game
 [01:32:57] [Server thread/INFO]: .BrayanJudo27[/127.0.0.1:0] logged in with entity id 337 at ([world]-2023.6769, 37.0, -287.0108)
+[01:35:53] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] BrayanJudo27 has disconnected from the Java server because of Bedrock client disconnected
+[01:35:53] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .BrayanJudo27 disconnected
+[01:35:53] [Server thread/INFO]: .BrayanJudo27 lost connection: Disconnected
+[01:35:54] [Server thread/INFO]: .BrayanJudo27 left the game
+[01:36:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
